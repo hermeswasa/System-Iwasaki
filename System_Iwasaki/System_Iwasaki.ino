@@ -9,6 +9,8 @@ const int DIN_PIN = 7;
 const int Pulse_MIN = 560;
 const int Pulse_MAX = 2480;
 
+//for miuzei MS18 MIN 900 to MAX 2100
+
 Servo servo1;
 
 void setup() {
